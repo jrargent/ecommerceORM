@@ -11,6 +11,13 @@ router.get('/', (req, res) => {
 router.get('/:id', (req, res) => {
   // find a single tag by its `id`
   // be sure to include its associated Product data
+  /* { 
+    model: Product,
+    attributes: ['??'],
+    through: ProductTag,
+    as: 'tagged_product'
+  }
+  */
 });
 
 router.post('/', (req, res) => {
