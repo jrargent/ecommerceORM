@@ -19,6 +19,8 @@ Once the files are on your local machine, open the terminal and enter the comman
 
 Please access a walkthrough of using this program at the following link:
 
+https://drive.google.com/file/d/1OS-kOB2_SM_ni4oMVYcpzX8nOYDwUfJC/view
+
 
 ## Acceptance Criteria
 ```
